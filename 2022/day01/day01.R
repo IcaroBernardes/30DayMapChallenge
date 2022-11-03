@@ -92,7 +92,7 @@ tm_style("cobalt") +
   tm_shape(br) + tm_borders(col = "white", lwd = 3) +
   tm_credits(
     text = subtitle,
-    size = 0.99,
+    size = 1,
     position = c("left", "top")
   ) +
   tm_credits(
