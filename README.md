@@ -15,7 +15,7 @@
 
 💻 Source of the image: https://www.figma.com/community/file/1170534080154838754
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1588907875346223104
 
 ![](https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day03/day03.png)
 
