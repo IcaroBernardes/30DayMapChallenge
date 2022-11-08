@@ -19,4 +19,12 @@
 
 ![](https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day03/day03.png)
 
+### Day 04 - Colour Friday: Green - Aliens among (the) US
 
+💻 Source of the image: https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day04/day04.R
+
+💻 Source of the image: https://www.figma.com/community/file/1171775452163224072
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1589954370149699592
+
+![](https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day04/day04.png)
