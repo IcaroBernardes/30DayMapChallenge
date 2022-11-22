@@ -28,3 +28,11 @@
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1589954370149699592
 
 ![](https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day04/day04.png)
+
+### Day 11 - Colour Friday: Red - Scarlet America
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day11/day11.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1595070262130905088
+
+![](https://github.com/IcaroBernardes/30DayMapChallenge/blob/master/2022/day11/day11.png)
